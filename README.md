@@ -14,8 +14,12 @@ Crazyradio PA
 <img src="images/Drone port.jpg" width="250" height="250">
 Micro USB cable
 
+
 Step 2:-
 Power on the Drone
+
+<img src="images/image2022-2-26_3-2-29.png" width="250" height="250">
+Location of the power button circle in blue
 
 Step 3:- 
 If using windows 10 install the Windows USB driver
