@@ -5,4 +5,4 @@
 Step 1:-
 
 Connect the crazyflie drone to your computer using the Micro USB cable or the Crazyradio PA.
-![Micro Usb](images/IMG_2577.jpg width="250' height="250")
+<img src="images/IMG_2577.jpg" width="48">
